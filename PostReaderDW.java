@@ -10,7 +10,6 @@ import java.io.FileNotFoundException;
  * then url, and then body text in that order and these three fields are
  * separated by a three character delimiter: +++.
  * 
- * @author DataWrangler, courtesy of the CS400 course staff.
  */
 public class PostReaderDW implements PostReaderInterface {
 
