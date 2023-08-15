@@ -1,10 +1,3 @@
-
-/**
- * Each instance of this class represents a different reddit post, and includes
- * accessor methods to retrieve the post's title, url, and body text.
- * 
- * @author DataWrangler, courtesy of the CS400 course staff.
- */
 public class PostDW implements PostInterface {
 
     private String title;
