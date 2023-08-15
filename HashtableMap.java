@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Ark Dutt
-// CSL Username: ark
-// Email: dutt3@wisc.edu
-// Lecture #: 004 15:30-16:20
-// Notes to Grader: <any optional extra notes to your grader>
-
 /**
  * The HashtableMap class uses hashFunction(key), put(key,value), rehash(), containsKey(key), get(key),
  * remove(key), clear(), getSize(), getCapacity() methods by implementing MapADT
